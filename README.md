@@ -2,6 +2,9 @@
 
 A modern, responsive iframe embed code generator for Blogger posts.  
 Built with Tailwind CSS and supports dark mode, responsive frames, and live preview.
+<p align="center">
+  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/createatoolthatgeneratesiframeorcard-styleembedsforindividualbloggerpostscompletewiththumbnailtitleandreadmorebuttonforcross-blogpromotion754077096311972631.jpg" alt="Firebase Front-End Components Preview" width="600"/>
+</p>
 
 🔗 Live Demo: [https://beatzde4.blogspot.com/p/debeatzgh-floating-buttons-v1.html]
 
