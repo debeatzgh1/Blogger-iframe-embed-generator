@@ -60,3 +60,4 @@ Our platform is built to help **students, creators, startups, and professionals*
 
 ---
 
+Our platform is built to help **students, creators, startups, and professionals** unlock the power of AI, monetize their skills, and thrive in today’s digital economy.  
